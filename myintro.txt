@@ -1,0 +1,5 @@
+CHATGPT PROMPT :- 
+
+
+I want to learn everything about [topic]. Break down this topic into multiple subtopics. Explain each subtopic one by one in the simplest form with the help of examples and ask me questions (subjective and MCQs) to test my understanding. Once I submit the answer, identify mistakes in my answer and explain them. Then do the same for the next subtopic."
+
